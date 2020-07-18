@@ -1,11 +1,12 @@
 ## ChatApp with socket.io
  `Url: https://chat-01-app.herokuapp.com/`
+
 ### Technologies
 - Backend: Node and Express, Socket.io
 - Frontend Html5, Mustache, Socket.io
 
 #### Requirement 
- To run this app you should have `Node 10.20.1` or upward installed
+ To run this app you should have `Node 10.20.1` or upward installed.
 
 ##### To clone and install dependencies
 * git clone into this app
