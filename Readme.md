@@ -6,7 +6,7 @@
 - Frontend Html5, Mustache, Socket.io
 
 #### Requirement 
- To run this app you should have `Node 10.20.1` or upward installed.
+- To run this app you should have `Node 10.20.1` or upward installed.
 
 ##### To clone and install dependencies
 * git clone into this app
